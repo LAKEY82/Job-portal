@@ -13,6 +13,12 @@
   }
 }
 
+
+
+
+
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -22,6 +28,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+
+.job{
+  background-color: aqua;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 .App-link {
